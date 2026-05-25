@@ -254,5 +254,4 @@ Comparative research on lightweight deep learning architectures and ensemble met
 
 </p>
 
-📧 Email:  
-<a href="mailto:leon.mail003@gmail.com">leon.mail003@gmail.com</a>
+📧 Email:  <a href="mailto:leon.mail003@gmail.com">leon.mail003@gmail.com</a>
