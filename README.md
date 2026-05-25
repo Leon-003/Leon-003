@@ -244,11 +244,9 @@ Comparative research on lightweight deep learning architectures and ensemble met
 <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white">
 </a>
 
-<a href="mailto:leon.mail003@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
 </p>
+
+📧 Email: <a href="mailto:leon.mail003@gmail.com">leon.mail003@gmail.com</a>
 
 
 
