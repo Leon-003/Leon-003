@@ -146,7 +146,7 @@ Deep learning system for Alzheimer classification using medical imaging.
 - CNN-based disease classification
 
 🔗 Repository:  
-https://github.com/Leon-003/Alzeimar-image-classification
+https://github.com/Leon-003/Alzheimer-detection-ai
 
 ---
 
