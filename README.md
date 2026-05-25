@@ -122,12 +122,17 @@ Tech:
 
 ## GitHub Stats
 
-![Leon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leon-003&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leon-003&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-003&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-003&layout=compact&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Leon-003&theme=tokyonight)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Leon-003&theme=tokyonight" />
+</p>
 
 ## Connect With Me
 
