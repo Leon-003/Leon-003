@@ -211,42 +211,45 @@ Comparative research on lightweight deep learning architectures and ensemble met
 
 ## 📈 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leon-003&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Leon-003&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-003&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Leon-003&layout=compact&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Leon-003&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Leon-003&theme=github-dark" />
 </p>
+
 
 ---
+
 
 
 ## 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://github.com/Leon-003">
+<a href="https://github.com/Leon-003" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/abul-khayer-leon-b281a4236/">
+<a href="https://www.linkedin.com/in/abul-khayer-leon-b281a4236/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.researchgate.net/profile/Abul-Khayer-3?ev=hdr_xprf">
+<a href="https://www.researchgate.net/profile/Abul-Khayer-3?ev=hdr_xprf" target="_blank">
   <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
 </a>
 
 <a href="mailto:leon.mail003@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
-```
+
 
 ```
