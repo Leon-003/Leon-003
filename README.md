@@ -123,15 +123,15 @@ Tech:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leon-003&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leon-003&show_icons=true&theme=github_dark&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-003&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-003&layout=compact&theme=github_dark&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Leon-003&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Leon-003&theme=github-dark" />
 </p>
 
 ## Connect With Me
