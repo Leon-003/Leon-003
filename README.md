@@ -127,8 +127,7 @@ Published research project using transformer architectures to predict multiple d
 - Medical NLP pipeline
 - Transformer-based architecture
 
-🔗 Repository:  
-https://github.com/Leon-003/Transformer_based_multilabel_diseases-prediction
+🔗 Repository:  https://github.com/Leon-003/Transformer_based_multilabel_diseases-prediction
 
 ---
 
@@ -145,8 +144,7 @@ Deep learning system for Alzheimer classification using medical imaging.
 - Explainable AI visualization
 - CNN-based disease classification
 
-🔗 Repository:  
-https://github.com/Leon-003/Alzheimer-detection-ai
+🔗 Repository:  https://github.com/Leon-003/Alzheimer-detection-ai
 
 ---
 
@@ -162,8 +160,7 @@ Interactive sentiment analysis application with real-time visualization.
 - Interactive dashboard
 - Real-time visualization
 
-🔗 Repository:  
-https://github.com/Leon-003/sentiment-analysis
+🔗 Repository:  https://github.com/Leon-003/sentiment-analysis
 
 ---
 
