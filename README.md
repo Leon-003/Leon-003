@@ -47,12 +47,12 @@ AI/ML Engineer | Medical AI Researcher | Deep Learning Enthusiast
 
 ## 🛠 Tech Stack
 
-### Languages
+### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-Primary-blue?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-DSA%20%26%20Problem%20Solving-blue?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-System%20Programming-blue?style=for-the-badge&logo=c)
+![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=postgresql)
 ---
 
 ### AI / ML
@@ -117,7 +117,7 @@ Published research project using transformer architectures to predict multiple d
 - Medical NLP pipeline
 - Transformer-based architecture
 
-🔗 Repository: YOUR_REPO_LINK
+🔗 Repository: https://github.com/Leon-003/Transformer_based_multilabel_diseases-prediction
 
 ---
 
@@ -134,7 +134,7 @@ Deep learning system for Alzheimer classification using medical imaging.
 - Explainable AI visualization
 - CNN-based disease classification
 
-🔗 Repository: YOUR_REPO_LINK
+🔗 Repository: https://github.com/Leon-003/Alzeimar-image-classification
 
 ---
 
@@ -150,17 +150,44 @@ Interactive sentiment analysis application with real-time visualization.
 - Interactive dashboard
 - Real-time visualization
 
-🔗 Repository: YOUR_REPO_LINK
+🔗 Repository: https://github.com/Leon-003/sentiment-analysis
 
 ---
 
+
 ## 📚 Publications
 
-📄 Transformer-Based Multi-Label Disease Prediction from Radiology Reports (2025)
+### 🩺 Transformer-Based Multi-Label Disease Prediction from Radiology Reports (2025)
 
-📄 Memory-Efficient Deep Learning Architectures for Water Body Segmentation in Satellite Imagery (2025)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-View_Publication-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/398727567_Transformer-Based_Multi-Label_Disease_Prediction_from_Radiology_Reports)
 
-📄 Explainable Deep Learning Framework for Multi-Class Alzheimer’s Diagnosis (2025)
+Transformer-based NLP system for predicting multiple diseases from radiology reports using clinical text analysis.
+
+⚡ Technologies:
+`Transformers` `NLP` `PyTorch` `Healthcare AI`
+
+---
+
+### 🧠 An Explainable Deep Learning Framework for Multi-Class Alzheimer's Diagnosis with Multi-Scale CNN (2025)
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-View_Publication-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/401342979_An_Explainable_Deep_Learning_Framework_for_Multi-Class_Alzheimer's_Diagnosis_with_Multi-Scale_CNN)
+
+Research focused on explainable AI techniques for multi-class Alzheimer's diagnosis using multi-scale CNN architectures and medical imaging.
+
+⚡ Technologies:
+`PyTorch` `CNN` `Medical Imaging` `Explainable AI`
+
+---
+
+### 🌍 Memory-Efficient Deep Learning Architectures for Water Body Segmentation in Satellite Imagery (2025)
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-View_Publication-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/398727512_Memory-Efficient_Deep_Learning_Architectures_for_Water_Body_Segmentation_in_Satellite_Imagery_A_Comparative_Analysis_and_Ensemble_Approach)
+
+Comparative research on lightweight deep learning architectures and ensemble methods for satellite imagery segmentation.
+
+⚡ Technologies:
+`Deep Learning` `Computer Vision` `Satellite Imagery` `Segmentation`
+
 
 ---
 
@@ -198,21 +225,28 @@ Interactive sentiment analysis application with real-time visualization.
 
 ---
 
+
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/Leon-003" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" />
+
+<a href="https://github.com/Leon-003">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/abul-khayer-leon-b281a4236/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+<a href="https://www.linkedin.com/in/abul-khayer-leon-b281a4236/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.researchgate.net/profile/Abul-Khayer-3?ev=hdr_xprf" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" alt="researchgate" height="30" width="40" />
+<a href="https://www.researchgate.net/profile/Abul-Khayer-3?ev=hdr_xprf">
+  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
 </a>
+
+<a href="mailto:leon.mail003@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
+```
 
-📧 Email: leon.mail003@gmail.com
 ```
