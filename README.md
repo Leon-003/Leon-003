@@ -126,6 +126,8 @@ Tech:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-003&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Leon-003&theme=tokyonight)
+
 
 ## Connect With Me
 
